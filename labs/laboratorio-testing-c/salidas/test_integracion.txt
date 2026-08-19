@@ -1,0 +1,4 @@
+=== Tests de integracion ===  [OK]   carrito_total(&carrito) == 1300
+  [OK]   carrito_descuento(carrito_total(&carrito), 10) == 1170
+
+--- 2/2 tests OK ---
